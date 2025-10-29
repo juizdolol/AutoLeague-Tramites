@@ -1,4 +1,4 @@
-⚙️ AUTO_CLOSE_LAUNCHER_LEAGUEOFLEGENDS (AutoLeague-Tramites.ps1)
+⚙️ AUTO_CLOSE_LAUNCHER_LEAGUEOFLEGENDS (tramites.ps1)
 
 Autor: JUÍZ DO LOL 👨‍⚖️
 Descrição completa:
