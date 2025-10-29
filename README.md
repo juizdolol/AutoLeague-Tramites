@@ -26,13 +26,13 @@ Continua em loop infinito, monitorando novas partidas sem precisar reiniciar o P
 
 💻 Como usar:
 
-Salve o arquivo como AutoLeague-Tramites.ps1.
+Salve o arquivo como tramites.ps1.
 
 Clique com o botão direito → Criar atalho.
 
 No campo “Destino” do atalho, coloque:
 
-powershell.exe -ExecutionPolicy Bypass -File "C:\CAMINHO\PARA\AutoLeague-Tramites.ps1"
+powershell.exe -ExecutionPolicy Bypass -File "C:\CAMINHO\PARA\tramites.ps1"
 
 
 Vá em Propriedades > Alterar ícone, escolha o ícone do LoL ou outro de sua preferência.
