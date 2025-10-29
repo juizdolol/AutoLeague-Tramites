@@ -1,4 +1,7 @@
-⚙️ AUTO_CLOSE_LAUNCHER_LEAGUEOFLEGENDS (tramites.ps1)
+⚙️ 
+League Of Legends - Fechar Cliente ao Iniciar Partida
+Reabrir Cliente ao Finalizar Partida
+e Modo Loop (tramites.ps1)
 
 Autor: JUÍZ DO LOL 👨‍⚖️
 Descrição completa:
